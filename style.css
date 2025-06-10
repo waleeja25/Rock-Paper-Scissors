@@ -1,0 +1,41 @@
+body {
+        background-color: black;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .title,
+      .js-result,
+      .js-moves,
+      .js-score {
+        color: white;
+      }
+      .title {
+        font-weight: bold;
+        font-size: 50px;
+      }
+      .image {
+        height: 50px;
+      }
+      .img-button {
+        background-color: transparent;
+        border: none;
+        border: 3px solid white;
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        margin: 15px;
+      }
+      .js-result {
+        font-weight: bold;
+        font-size: 25px;
+        margin-top: 50px;
+      }
+      .js-score {
+        margin-top: 60px;
+      }
+      .reset button {
+        background-color: white;
+        border: none;
+        font-size: 15px;
+        padding: 8px 15px;
+        cursor: pointer;
+      }
