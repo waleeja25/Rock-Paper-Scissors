@@ -32,10 +32,17 @@ body {
       .js-score {
         margin-top: 60px;
       }
-      .reset button {
+      .reset, .auto-play{
         background-color: white;
         border: none;
         font-size: 15px;
         padding: 8px 15px;
         cursor: pointer;
+      }
+      .stop-play{
+        background-color: white;
+        border: none;
+        font-size: 15px;
+        padding: 8px 15px;
+        cursor: pointer;      
       }
